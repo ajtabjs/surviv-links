@@ -13,6 +13,10 @@ a collection of links of alternatives for the game surviv.io
 
 http://surviv.wf/ - some random modded server i found on discord, named "shrek.io" as a joke i assume
 
+http://66.179.254.36/ - found this in the discord server for survev, known as the "66 link" in the server to 1v1 people or something i guess
+
+https://leia-uwu.github.io/survev/ - mirror link for the github repo i guess? once again, found it in the server
+
 ## other links and resources
 
 https://github.com/leia-uwu/survev - repository of survev, development on this repo isnt continued
