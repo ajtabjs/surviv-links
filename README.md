@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/b1f2d11f-111e-464c-b4a8-7907344b1e64)
+
+
 # surviv-links
 a collection of links of alternatives for the game surviv.io
 
@@ -24,6 +27,8 @@ https://leia-uwu.github.io/survev/ - offline survev client that has old maps and
 https://github.com/leia-uwu/survev - repository of survev, development on this repo isnt continued
 
 https://github.com/NAMERIO/resurviv - source repo of resurviv.biz
+
+https://gitlab.com/hasanger/survivreloaded - old gitlab of resurviv/surviv reloaded
 
 ## suroi mirrors
 
