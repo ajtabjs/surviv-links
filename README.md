@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fc6821f9-161d-4bb9-b346-5b9b5f1044be)# surviv-links
+# surviv-links
 a collection of links of alternatives for the game surviv.io
 
 <p> <a href="https://survev.io" target="_blank">survev.io</a> - most used alternative for the game </p>
