@@ -13,8 +13,8 @@ a collection of links of alternatives for the game surviv.io
 
 ## other links and resources
 
-https://github.com/leia-uwu/survev - open source of survev, development on this repo isnt continued
+https://github.com/leia-uwu/survev - repository of survev, development on this repo isnt continued
 
-https://github.com/NAMERIO/resurviv - source of resurviv.biz
+https://github.com/NAMERIO/resurviv - source repo of resurviv.biz
 
 
