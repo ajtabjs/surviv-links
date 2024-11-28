@@ -15,7 +15,7 @@ http://surviv.wf/ - some random modded server i found on discord, named "shrek.i
 
 http://66.179.254.36/ - found this in the discord server for survev, known as the "66 link" in the server to 1v1 people or something i guess
 
-https://leia-uwu.github.io/survev/ - mirror link for the github repo i guess? once again, found it in the server
+https://leia-uwu.github.io/survev/ - offline survev client that has old maps and modes
 
 ## other links and resources
 
