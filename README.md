@@ -34,7 +34,7 @@ https://suroi.io - official site
 
 http://camvan.xyz/
 
-http://124.223.18.68/ - modded server
+http://124.223.18.68/ - modded server (shanghai)
 
 http://hk.camvan.xyz/
 
