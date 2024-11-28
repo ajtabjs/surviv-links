@@ -1,4 +1,4 @@
-# surviv-links
+![image](https://github.com/user-attachments/assets/fc6821f9-161d-4bb9-b346-5b9b5f1044be)# surviv-links
 a collection of links of alternatives for the game surviv.io
 
 <p> <a href="https://survev.io" target="_blank">survev.io</a> - most used alternative for the game </p>
@@ -10,6 +10,8 @@ a collection of links of alternatives for the game surviv.io
 <p><a href="https://resurviv.biz" target="_blank">resurviv.biz</a> - A hosted server of resurviv, modified so that the player has overpowered weapons.</p>
 
 <p> <a href="https://c79geyxwmp1zpas3qxbddzrtytffta.ext-twitch.tv/c79geyxwmp1zpas3qxbddzrtytffta/1.0.2/ce940530af57d2615ac39c266fe9679d/index_twitch.html" target="_blank">Twitch Mirror</a> - An old mirror of the game hosted on some twitch cdn it seems, no longer functional as the original game servers for surviv have been shutdown.</p>
+
+http://surviv.wf/ - some random modded server i found on discord, named "shrek.io" as a joke i assume
 
 ## other links and resources
 
