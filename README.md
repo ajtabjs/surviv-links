@@ -25,4 +25,17 @@ https://github.com/leia-uwu/survev - repository of survev, development on this r
 
 https://github.com/NAMERIO/resurviv - source repo of resurviv.biz
 
+## suroi mirrors
+
+https://suroi.io - official site
+
+http://camvan.xyz/
+
+http://124.223.18.68/ - modded server
+
+http://hk.camvan.xyz/
+
+source code for the modded server - https://github.com/XNORIGC/suroi.cn
+
+
 
