@@ -1,6 +1,4 @@
 ![image](https://github.com/user-attachments/assets/b1f2d11f-111e-464c-b4a8-7907344b1e64)
-
-
 # surviv-links
 a collection of links of alternatives for the game surviv.io
 
