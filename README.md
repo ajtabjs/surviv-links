@@ -11,6 +11,8 @@ a collection of links of alternatives for the game surviv.io
 
 <p> <a href="https://c79geyxwmp1zpas3qxbddzrtytffta.ext-twitch.tv/c79geyxwmp1zpas3qxbddzrtytffta/1.0.2/ce940530af57d2615ac39c266fe9679d/index_twitch.html" target="_blank">Twitch Mirror</a> - An old mirror of the game hosted on some twitch cdn it seems, no longer functional as the original game servers for surviv have been shutdown.</p>
 
+<p> <a href="https://www.twitch.tv/popout/survivio/extensions/c79geyxwmp1zpas3qxbddzrtytffta/panel" target="_blank">Twitch Surviv Panel</a> - The original link for that twitch mirror, supposedly a custom server of the original surviv</p>
+
 http://surviv.wf/ - some random modded server i found on discord, named "shrek.io" as a joke i assume
 
 http://66.179.254.36/ - found this in the discord server for survev, known as the "66 link" in the server to 1v1 people or something i guess
