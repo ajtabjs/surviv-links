@@ -30,6 +30,8 @@ https://github.com/NAMERIO/resurviv - source repo of resurviv.biz
 
 https://gitlab.com/hasanger/survivreloaded - old gitlab of resurviv/surviv reloaded
 
+https://github.com/HasangerGames/survivreloaded-server - archived repo for the survivreloaded server, client can be found somewhere if you know where to look
+
 ## suroi mirrors
 
 https://suroi.io - official site
