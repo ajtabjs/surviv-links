@@ -32,6 +32,8 @@ https://gitlab.com/hasanger/survivreloaded - old gitlab of resurviv/surviv reloa
 
 https://github.com/HasangerGames/survivreloaded-server - archived repo for the survivreloaded server, client can be found somewhere if you know where to look
 
+https://github.com/SoyAlguien0/AlguienClient-Survev.io_Client - modified client for survev, gives optimizations for better fps and has some extra ui features
+
 ## suroi mirrors
 
 https://suroi.io - official site
