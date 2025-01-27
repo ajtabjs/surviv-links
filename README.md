@@ -42,6 +42,10 @@ https://github.com/HasangerGames/survivreloaded-server - archived repo for the s
 
 https://github.com/SoyAlguien0/AlguienClient-Survev.io_Client - modified client for survev, gives optimizations for better fps and has some extra ui features
 
+https://github.com/Drino955/Survev-Krityhack - taken down repo for popular survev hack
+
+https://github.com/ThatDevExotic/Survev-Client - taken down repo of what seems to be a deobfuscated survev client
+
 ## suroi mirrors
 
 https://suroi.io - official site
