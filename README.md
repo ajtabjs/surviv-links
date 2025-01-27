@@ -34,7 +34,7 @@ https://leia-uwu.github.io/survev/ - offline survev client that has old maps and
 
 https://github.com/leia-uwu/survev - repository of survev, development on this repo isnt continued
 
-https://github.com/NAMERIO/resurviv - source repo of resurviv.biz
+https://github.com/NAMERIO/resurviv-public - source repo of resurviv.biz
 
 https://gitlab.com/hasanger/survivreloaded - old gitlab of resurviv/surviv reloaded
 
