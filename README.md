@@ -20,6 +20,14 @@ http://surviv.wf/ - some random modded server i found on discord, named "shrek.i
 
 http://66.179.254.36/ - found this in the discord server for survev, known as the "66 link" in the server to 1v1 people or something i guess
 
+http://50v50.online/ - 50v50 private server i guess
+
+http://67.217.244.178/ - another 50v50 server
+
+http://eu-comp.net/ - competitive server for eu competitions (EC)
+
+https://zurviv.io/ - survev league private server
+
 https://leia-uwu.github.io/survev/ - offline survev client that has old maps and modes
 
 ## other links and resources
